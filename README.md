@@ -4,6 +4,12 @@ ___
 <p align="center">
 <img src="chrome-capture-2023-1-4.gif">
 </p>
+
+____
+
+### Let's [Connnect](https://fabdeveloper.netlify.app/ "Fabien's Portfolio") !
+
+
 <!--
 **FabienD0/FabienD0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
