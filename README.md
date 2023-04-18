@@ -19,7 +19,7 @@ I am Fabien Dénommée, a passionate full-stack developer who loves to create el
 <a href="https://github.com/FabienD0/Twitter-Clone"><img src="critter.png" width="160"/></a> <a href="https://github.com/FabienD0/Pokemon-World"><img src="pokemon.png" width="200"/></a> <a href="https://github.com/FabienD0/Calculator"><img src="calculator.png" width="170"/></a>
 
 ## **:chart:GitHub Stats**
-[![Fabien's github stats](https://github-readme-stats.vercel.app/api?username=FabienD0&theme=dark&show_icons=true)](https://github.com/FabienD0/github-readme-stats)
+[![Fabien's github stats](https://github-readme-stats.vercel.app/api?username=FabienD0&&show_icons=true&theme=dark)](https://github.com/FabienD0/github-readme-stats)
 
 
 
