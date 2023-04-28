@@ -14,6 +14,7 @@ I am Fabien Dénommée, a passionate full-stack developer who loves to create el
 
 <img src="nextjs.png" width="110"/> <img src="figma.png" width="120"/> <img src="aws.png" width="100"/> <img src="photoshop.png" width="160"/> <img src="vscode.png" width="120"/> 
 ## **:hammer:Projects**
+<a href="https://github.com/FabienD0/FinalProject-BeatMi"><img src="beatMi.png" width="135"/></a>
 <a href="https://github.com/FabienD0/E-Commerce-Project"><img src="ecommerce.png" width="175"/></a> <a href="https://github.com/FabienD0/To-Do-List"><img src="todo.png" width="170"/></a> <a href="https://github.com/FabienD0/Budget-MobileApp"><img src="budget.png" width="160"/></a> 
 
 <a href="https://github.com/FabienD0/Twitter-Clone"><img src="critter.png" width="160"/></a> <a href="https://github.com/FabienD0/Pokemon-World"><img src="pokemon.png" width="200"/></a> <a href="https://github.com/FabienD0/Calculator"><img src="calculator.png" width="170"/></a>
