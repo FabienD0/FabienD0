@@ -3,7 +3,7 @@
 ## **Hello World!** <img src="handEmoji.png" width="22"/>
 I am Fabien Dénommée, a passionate full-stack developer who loves to create elegant and responsive designs. I'm constantly striving to learn new things. I'm currently on the lookout for new opportunities to apply my skills and contribute to exciting projects.
 
-**If you'd like to learn more about me, feel free to look my [portfolio](https://fabdeveloper.netlify.app/ "Fabien's Portfolio") or find me on <a href="https://www.linkedin.com/in/fabien-developer/"><img src="linkedinIcon.png" width="20"/></a>**.
+**If you'd like to learn more about me, feel free to look my [portfolio](https://www.fabiend.ca)"Fabien's Portfolio") or find me on <a href="https://www.linkedin.com/in/fabien-developer/"><img src="linkedinIcon.png" width="20"/></a>**.
 ## **:computer:Languages**
 <img src="html5.png" width="100"/> <img src="css3.png" width="100"/> 
 <img src="javascript.png" width="140"/>
